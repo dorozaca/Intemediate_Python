@@ -1,5 +1,5 @@
 def divisors(num):
-    assert num>0,'Needs to be a positive number'
+    
     divisors=[]
        
     for i in range(1,num+1):
